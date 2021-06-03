@@ -1,0 +1,17 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    display: block;
+ }
+
+ #corner-btn{
+    position: absolute;
+    right: 0;
+    top: 15px;
+    padding: 4px;
+  }
